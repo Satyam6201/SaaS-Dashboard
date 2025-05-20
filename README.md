@@ -29,8 +29,18 @@ An advanced and responsive **SaaS Dashboard** built using **React.js**, featurin
 - **Firebase** *(optional for authentication & storage)*
 - **React Router DOM**
 
----
+-----
 
+#📱 Responsive Design
+Built with responsiveness in mind – adapts perfectly across:
+
+Mobile phones
+
+Tablets
+
+Desktops
+
+------
 
 👨‍💻 Author
 Satyam Kumar Mishra

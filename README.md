@@ -66,3 +66,13 @@ Mobile phones
 Tablets
 
 Desktops
+
+
+------
+
+
+👨‍💻 Author
+Satyam Kumar Mishra
+📌 LinkedIn
+💼 GitHub
+

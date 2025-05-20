@@ -56,3 +56,13 @@ saas-dashboard/
 │   ├── index.js
 │   └── styles/
 │       └── global.css
+
+
+📱 Responsive Design
+Built with responsiveness in mind – adapts perfectly across:
+
+Mobile phones
+
+Tablets
+
+Desktops

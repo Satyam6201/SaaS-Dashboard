@@ -80,3 +80,4 @@ saas-dashboard/
 │   ├── index.js           # Entry Point
 │   └── styles/            # Global Styling
 │       └── global.css
+```
